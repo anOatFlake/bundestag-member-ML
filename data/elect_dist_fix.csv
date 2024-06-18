@@ -4381,3 +4381,744 @@ elect_dist;legislation;place
 245;4;Saarlouis � Merzig
 246;4;Ottweiler � St. Wendel
 247;4;Homburg � St. Ingbert
+1;3;Husum � S�dtondern � Eiderstedt
+2;3;Flensburg
+3;3;Schleswig � Eckernf�rde
+4;3;Norder- und S�derdithmarschen
+5;3;Rendsburg
+6;3;Kiel
+7;3;Pl�n � Eutin/Nord
+8;3;Oldenburg � Eutin/S�d
+9;3;L�beck
+10;3;Segeberg � Neum�nster
+11;3;Steinburg
+12;3;Pinneberg
+13;3;Stormarn
+14;3;Herzogtum Lauenburg
+15;3;Hamburg I
+16;3;Hamburg II
+17;3;Hamburg III
+18;3;Hamburg IV
+19;3;Hamburg V
+20;3;Hamburg VI
+21;3;Hamburg VII
+22;3;Hamburg VIII
+23;3;Aurich � Emden
+24;3;Leer
+25;3;Wilhelmshaven � Friesland
+26;3;Emsland
+27;3;Bersenbr�ck � Lingen
+28;3;Osnabr�ck-Stadt und -Land
+29;3;Delmenhorst � Wesermarsch
+30;3;Oldenburg � Ammerland
+31;3;Vechta � Cloppenburg
+32;3;Cuxhaven � Hadeln � Weserm�nde
+33;3;Stade � Bremerv�rde
+34;3;Verden � Rotenburg � Osterholz
+35;3;L�neburg � Dannenberg
+36;3;Harburg � Soltau
+37;3;Fallingbostel � Hoya
+38;3;Celle
+39;3;Uelzen
+40;3;Stadt Hannover-Nord
+41;3;Stadt Hannover-S�d
+42;3;Hannover-Land
+43;3;Neustadt � Grafschaft Schaumburg
+44;3;Nienburg � Schaumburg-Lippe
+45;3;Diepholz � Melle � Wittlage
+46;3;Hameln � Springe
+47;3;Alfeld � Holzminden
+48;3;Hildesheim-Stadt und -Land
+49;3;Gandersheim � Salzgitter
+50;3;Stadt Braunschweig
+51;3;Braunschweig-Land � Helmstedt
+52;3;Wolfenb�ttel � Goslar-Land
+53;3;Harz
+54;3;Peine � Gifhorn
+55;3;Northeim � Einbeck � Duderstadt
+56;3;G�ttingen � M�nden
+57;3;Bremen-Ost
+58;3;Bremen-West
+59;3;Bremerhaven � Bremen-Nord
+60;3;Aachen-Stadt
+61;3;Aachen-Land
+62;3;Geilenkirchen � Erkelenz � J�lich
+63;3;D�ren � Monschau � Schleiden
+64;3;Bergheim � Euskirchen
+65;3;K�ln-Land
+66;3;K�ln I
+67;3;K�ln II
+68;3;K�ln III
+69;3;Bonn-Stadt und -Land
+70;3;Siegkreis
+71;3;Oberbergischer Kreis
+72;3;Rheinisch-Bergischer Kreis
+73;3;Rhein-Wupper-Kreis � Leverkusen
+74;3;Remscheid � Solingen
+75;3;Wuppertal I
+76;3;Wuppertal II
+77;3;D�sseldorf � Mettmann
+78;3;D�sseldorf I
+79;3;D�sseldorf II
+80;3;Neu� � Grevenbroich
+81;3;Krefeld
+82;3;Rheydt � M�nchengladbach � Viersen
+83;3;Kempen � Krefeld
+84;3;Moers
+85;3;Geldern � Kleve
+86;3;Rees � Dinslaken
+87;3;Oberhausen
+88;3;M�lheim
+89;3;Essen I
+90;3;Essen II
+91;3;Essen III
+92;3;Duisburg I
+93;3;Duisburg II
+94;3;Borken � Bocholt � Ahaus
+95;3;Steinfurt � Tecklenburg
+96;3;Beckum � Warendorf
+97;3;M�nster-Stadt und -Land
+98;3;L�dinghausen � Coesfeld
+99;3;Gelsenkirchen
+100;3;Recklinghausen-Land
+101;3;Recklinghausen-Stadt
+102;3;Gladbeck � Bottrop
+103;3;Warburg � H�xter � B�ren
+104;3;Paderborn � Wiedenbr�ck
+105;3;Bielefeld � Halle
+106;3;Bielefeld-Stadt
+107;3;Herford-Stadt und -Land
+108;3;Detmold
+109;3;Lemgo
+110;3;Minden � L�bbecke
+111;3;Wattenscheid � Wanne-Eickel
+112;3;Herne � Castrop-Rauxel
+113;3;Ennepe-Ruhr � Witten
+114;3;Hagen
+115;3;Dortmund I
+116;3;Dortmund II
+117;3;Dortmund III � L�nen
+118;3;Bochum
+119;3;Iserlohn-Stadt und -Land
+120;3;Unna � Hamm
+121;3;Meschede � Olpe
+122;3;Arnsberg � Soest
+123;3;Lippstadt � Brilon
+124;3;Altena � L�denscheid
+125;3;Siegen-Stadt und -Land � Wittgenstein
+126;3;Waldeck
+127;3;Kassel 
+128;3;Eschwege
+129;3;Fritzlar-Homberg
+130;3;Hersfeld
+131;3;Marburg
+132;3;Wetzlar
+133;3;Gie�en
+134;3;Fulda
+135;3;Obertaunuskreis
+136;3;Friedberg
+137;3;Limburg
+138;3;Wiesbaden
+139;3;Hanau
+140;3;Frankfurt/M I
+141;3;Frankfurt/M II
+142;3;Frankfurt/M III
+143;3;Gro�-Gerau
+144;3;Offenbach/M
+145;3;Darmstadt
+146;3;Dieburg
+147;3;Bergstra�e
+148;3;Altenkirchen (Westerwald)
+149;3;Ahrweiler
+150;3;Koblenz
+151;3;Cochem
+152;3;Kreuznach
+153;3;Pr�m
+154;3;Trier
+155;3;Montabaur
+156;3;Mainz
+157;3;Worms
+158;3;Ludwigshafen am Rhein
+159;3;Neustadt an der Weinstra�e
+160;3;Kaiserslautern
+161;3;Zweibr�cken
+162;3;Speyer
+163;3;Stuttgart I (West)
+164;3;Stuttgart II (Ost)
+165;3;Ludwigsburg
+166;3;Heilbronn
+167;3;B�blingen
+168;3;E�lingen
+169;3;G�ppingen
+170;3;Ulm
+171;3;Aalen
+172;3;Backnang
+173;3;Crailsheim
+174;3;Waiblingen
+175;3;Karlsruhe-Stadt
+176;3;Mannheim-Stadt
+177;3;Heidelberg
+178;3;Karlsruhe-Land
+179;3;Bruchsal
+180;3;Mannheim-Land
+181;3;Sinsheim
+182;3;Tauberbischofsheim
+183;3;Konstanz
+184;3;Donaueschingen
+185;3;L�rrach
+186;3;Freiburg
+187;3;Emmendingen
+188;3;Offenburg
+189;3;Rastatt
+190;3;Reutlingen
+191;3;Calw
+192;3;Rottweil 
+193;3;Balingen
+194;3;Biberach
+195;3;Ravensburg
+196;3;Alt�tting
+197;3;F�rstenfeldbruck
+198;3;Ingolstadt
+199;3;Miesbach
+200;3;M�nchen-Nord
+201;3;M�nchen-Ost
+202;3;M�nchen-S�d
+203;3;M�nchen-West
+204;3;M�nchen-Land
+205;3;Rosenheim
+206;3;Traunstein
+207;3;Weilheim
+208;3;Deggendorf
+209;3;Landshut
+210;3;Passau
+211;3;Pfarrkirchen
+212;3;Straubing
+213;3;Vilshofen
+214;3;Amberg
+215;3;Burglengenfeld
+216;3;Cham
+217;3;Regensburg
+218;3;Tirschenreuth
+219;3;Bamberg
+220;3;Bayreuth
+221;3;Coburg
+222;3;Forchheim
+223;3;Hof
+224;3;Kulmbach
+225;3;Ansbach
+226;3;Erlangen
+227;3;N�rnberg
+228;3;N�rnberg � F�rth
+229;3;Schwabach
+230;3;Wei�enburg
+231;3;Aschaffenburg
+232;3;Bad Kissingen
+233;3;Karlstadt
+234;3;Schweinfurt
+235;3;W�rzburg
+236;3;Augsburg-Stadt
+237;3;Augsburg-Land
+238;3;Dillingen
+239;3;Donauw�rth
+240;3;Kaufbeuren
+241;3;Kempten
+242;3;Memmingen
+243;3;Saarbr�cken-Stadt
+244;3;Saarbr�cken-Land
+245;3;Saarlouis � Merzig
+246;3;Ottweiler � St. Wendel
+247;3;Homburg � St. Ingbert
+1;2;Husum � S�dtondern � Eiderstedt
+2;2;Flensburg
+3;2;Schleswig � Eckernf�rde
+4;2;Norder- und S�derdithmarschen
+5;2;Rendsburg
+6;2;Kiel
+7;2;Pl�n � Eutin/Nord
+8;2;Oldenburg � Eutin/S�d
+9;2;L�beck
+10;2;Segeberg � Neum�nster
+11;2;Steinburg
+12;2;Pinneberg
+13;2;Stormarn
+14;2;Herzogtum Lauenburg
+15;2;Hamburg I
+16;2;Hamburg II
+17;2;Hamburg III
+18;2;Hamburg IV
+19;2;Hamburg V
+20;2;Hamburg VI
+21;2;Hamburg VII
+22;2;Hamburg VIII
+23;2;Aurich � Emden
+24;2;Leer
+25;2;Wilhelmshaven � Friesland
+26;2;Emsland
+27;2;Bersenbr�ck � Lingen
+28;2;Osnabr�ck-Stadt und -Land
+29;2;Delmenhorst � Wesermarsch
+30;2;Oldenburg � Ammerland
+31;2;Vechta � Cloppenburg
+32;2;Cuxhaven � Hadeln � Weserm�nde
+33;2;Stade � Bremerv�rde
+34;2;Verden � Rotenburg � Osterholz
+35;2;L�neburg � Dannenberg
+36;2;Harburg � Soltau
+37;2;Fallingbostel � Hoya
+38;2;Celle
+39;2;Uelzen
+40;2;Stadt Hannover-Nord
+41;2;Stadt Hannover-S�d
+42;2;Hannover-Land
+43;2;Neustadt � Grafschaft Schaumburg
+44;2;Nienburg � Schaumburg-Lippe
+45;2;Diepholz � Melle � Wittlage
+46;2;Hameln � Springe
+47;2;Alfeld � Holzminden
+48;2;Hildesheim-Stadt und -Land
+49;2;Gandersheim � Salzgitter
+50;2;Stadt Braunschweig
+51;2;Braunschweig-Land � Helmstedt
+52;2;Wolfenb�ttel � Goslar-Land
+53;2;Harz
+54;2;Peine � Gifhorn
+55;2;Northeim � Einbeck � Duderstadt
+56;2;G�ttingen � M�nden
+57;2;Bremen-Ost
+58;2;Bremen-West
+59;2;Bremerhaven � Bremen-Nord
+60;2;Aachen-Stadt
+61;2;Aachen-Land
+62;2;Geilenkirchen � Erkelenz � J�lich
+63;2;D�ren � Monschau � Schleiden
+64;2;Bergheim � Euskirchen
+65;2;K�ln-Land
+66;2;K�ln I
+67;2;K�ln II
+68;2;K�ln III
+69;2;Bonn-Stadt und -Land
+70;2;Siegkreis
+71;2;Oberbergischer Kreis
+72;2;Rheinisch-Bergischer Kreis
+73;2;Rhein-Wupper-Kreis � Leverkusen
+74;2;Remscheid � Solingen
+75;2;Wuppertal I
+76;2;Wuppertal II
+77;2;D�sseldorf � Mettmann
+78;2;D�sseldorf I
+79;2;D�sseldorf II
+80;2;Neu� � Grevenbroich
+81;2;Krefeld
+82;2;Rheydt � M�nchengladbach � Viersen
+83;2;Kempen � Krefeld
+84;2;Moers
+85;2;Geldern � Kleve
+86;2;Rees � Dinslaken
+87;2;Oberhausen
+88;2;M�lheim
+89;2;Essen I
+90;2;Essen II
+91;2;Essen III
+92;2;Duisburg I
+93;2;Duisburg II
+94;2;Borken � Bocholt � Ahaus
+95;2;Steinfurt � Tecklenburg
+96;2;Beckum � Warendorf
+97;2;M�nster-Stadt und -Land
+98;2;L�dinghausen � Coesfeld
+99;2;Gelsenkirchen
+100;2;Recklinghausen-Land
+101;2;Recklinghausen-Stadt
+102;2;Gladbeck � Bottrop
+103;2;Warburg � H�xter � B�ren
+104;2;Paderborn � Wiedenbr�ck
+105;2;Bielefeld � Halle
+106;2;Bielefeld-Stadt
+107;2;Herford-Stadt und -Land
+108;2;Detmold
+109;2;Lemgo
+110;2;Minden � L�bbecke
+111;2;Wattenscheid � Wanne-Eickel
+112;2;Herne � Castrop-Rauxel
+113;2;Ennepe-Ruhr � Witten
+114;2;Hagen
+115;2;Dortmund I
+116;2;Dortmund II
+117;2;Dortmund III � L�nen
+118;2;Bochum
+119;2;Iserlohn-Stadt und -Land
+120;2;Unna � Hamm
+121;2;Meschede � Olpe
+122;2;Arnsberg � Soest
+123;2;Lippstadt � Brilon
+124;2;Altena � L�denscheid
+125;2;Siegen-Stadt und -Land � Wittgenstein
+126;2;Waldeck
+127;2;Kassel 
+128;2;Eschwege
+129;2;Fritzlar-Homberg
+130;2;Hersfeld
+131;2;Marburg
+132;2;Wetzlar
+133;2;Gie�en
+134;2;Fulda
+135;2;Obertaunuskreis
+136;2;Friedberg
+137;2;Limburg
+138;2;Wiesbaden
+139;2;Hanau
+140;2;Frankfurt/M I
+141;2;Frankfurt/M II
+142;2;Frankfurt/M III
+143;2;Gro�-Gerau
+144;2;Offenbach/M
+145;2;Darmstadt
+146;2;Dieburg
+147;2;Bergstra�e
+148;2;Altenkirchen (Westerwald)
+149;2;Ahrweiler
+150;2;Koblenz
+151;2;Cochem
+152;2;Kreuznach
+153;2;Pr�m
+154;2;Trier
+155;2;Montabaur
+156;2;Mainz
+157;2;Worms
+158;2;Ludwigshafen am Rhein
+159;2;Neustadt an der Weinstra�e
+160;2;Kaiserslautern
+161;2;Zweibr�cken
+162;2;Speyer
+163;2;Stuttgart I (West)
+164;2;Stuttgart II (Ost)
+165;2;Ludwigsburg
+166;2;Heilbronn
+167;2;B�blingen
+168;2;E�lingen
+169;2;G�ppingen
+170;2;Ulm
+171;2;Aalen
+172;2;Backnang
+173;2;Crailsheim
+174;2;Waiblingen
+175;2;Karlsruhe-Stadt
+176;2;Mannheim-Stadt
+177;2;Heidelberg
+178;2;Karlsruhe-Land
+179;2;Bruchsal
+180;2;Mannheim-Land
+181;2;Sinsheim
+182;2;Tauberbischofsheim
+183;2;Konstanz
+184;2;Donaueschingen
+185;2;L�rrach
+186;2;Freiburg
+187;2;Emmendingen
+188;2;Offenburg
+189;2;Rastatt
+190;2;Reutlingen
+191;2;Calw
+192;2;Rottweil 
+193;2;Balingen
+194;2;Biberach
+195;2;Ravensburg
+196;2;Alt�tting
+197;2;F�rstenfeldbruck
+198;2;Ingolstadt
+199;2;Miesbach
+200;2;M�nchen-Nord
+201;2;M�nchen-Ost
+202;2;M�nchen-S�d
+203;2;M�nchen-West
+204;2;M�nchen-Land
+205;2;Rosenheim
+206;2;Traunstein
+207;2;Weilheim
+208;2;Deggendorf
+209;2;Landshut
+210;2;Passau
+211;2;Pfarrkirchen
+212;2;Straubing
+213;2;Vilshofen
+214;2;Amberg
+215;2;Burglengenfeld
+216;2;Cham
+217;2;Regensburg
+218;2;Tirschenreuth
+219;2;Bamberg
+220;2;Bayreuth
+221;2;Coburg
+222;2;Forchheim
+223;2;Hof
+224;2;Kulmbach
+225;2;Ansbach
+226;2;Erlangen
+227;2;N�rnberg
+228;2;N�rnberg � F�rth
+229;2;Schwabach
+230;2;Wei�enburg
+231;2;Aschaffenburg
+232;2;Bad Kissingen
+233;2;Karlstadt
+234;2;Schweinfurt
+235;2;W�rzburg
+236;2;Augsburg-Stadt
+237;2;Augsburg-Land
+238;2;Dillingen
+239;2;Donauw�rth
+240;2;Kaufbeuren
+241;2;Kempten
+242;2;Memmingen
+243;2;Saarbr�cken-Stadt
+244;2;Saarbr�cken-Land
+245;2;Saarlouis � Merzig
+246;2;Ottweiler � St. Wendel
+247;2;Homburg � St. Ingbert
+1;1;Husum � S�dtondern � Eiderstedt
+2;1;Flensburg
+3;1;Schleswig � Eckernf�rde
+4;1;Norder- und S�derdithmarschen
+5;1;Rendsburg
+6;1;Kiel
+7;1;Pl�n � Eutin/Nord
+8;1;Oldenburg � Eutin/S�d
+9;1;L�beck
+10;1;Segeberg � Neum�nster
+11;1;Steinburg
+12;1;Pinneberg
+13;1;Stormarn
+14;1;Herzogtum Lauenburg
+15;1;Hamburg I
+16;1;Hamburg II
+17;1;Hamburg III
+18;1;Hamburg IV
+19;1;Hamburg V
+20;1;Hamburg VI
+21;1;Hamburg VII
+22;1;Hamburg VIII
+23;1;Aurich � Emden
+24;1;Leer
+25;1;Wilhelmshaven � Friesland
+26;1;Emsland
+27;1;Bersenbr�ck � Lingen
+28;1;Osnabr�ck-Stadt und -Land
+29;1;Delmenhorst � Wesermarsch
+30;1;Oldenburg � Ammerland
+31;1;Vechta � Cloppenburg
+32;1;Cuxhaven � Hadeln � Weserm�nde
+33;1;Stade � Bremerv�rde
+34;1;Verden � Rotenburg � Osterholz
+35;1;L�neburg � Dannenberg
+36;1;Harburg � Soltau
+37;1;Fallingbostel � Hoya
+38;1;Celle
+39;1;Uelzen
+40;1;Stadt Hannover-Nord
+41;1;Stadt Hannover-S�d
+42;1;Hannover-Land
+43;1;Neustadt � Grafschaft Schaumburg
+44;1;Nienburg � Schaumburg-Lippe
+45;1;Diepholz � Melle � Wittlage
+46;1;Hameln � Springe
+47;1;Alfeld � Holzminden
+48;1;Hildesheim-Stadt und -Land
+49;1;Gandersheim � Salzgitter
+50;1;Stadt Braunschweig
+51;1;Braunschweig-Land � Helmstedt
+52;1;Wolfenb�ttel � Goslar-Land
+53;1;Harz
+54;1;Peine � Gifhorn
+55;1;Northeim � Einbeck � Duderstadt
+56;1;G�ttingen � M�nden
+57;1;Bremen-Ost
+58;1;Bremen-West
+59;1;Bremerhaven � Bremen-Nord
+60;1;Aachen-Stadt
+61;1;Aachen-Land
+62;1;Geilenkirchen � Erkelenz � J�lich
+63;1;D�ren � Monschau � Schleiden
+64;1;Bergheim � Euskirchen
+65;1;K�ln-Land
+66;1;K�ln I
+67;1;K�ln II
+68;1;K�ln III
+69;1;Bonn-Stadt und -Land
+70;1;Siegkreis
+71;1;Oberbergischer Kreis
+72;1;Rheinisch-Bergischer Kreis
+73;1;Rhein-Wupper-Kreis � Leverkusen
+74;1;Remscheid � Solingen
+75;1;Wuppertal I
+76;1;Wuppertal II
+77;1;D�sseldorf � Mettmann
+78;1;D�sseldorf I
+79;1;D�sseldorf II
+80;1;Neu� � Grevenbroich
+81;1;Krefeld
+82;1;Rheydt � M�nchengladbach � Viersen
+83;1;Kempen � Krefeld
+84;1;Moers
+85;1;Geldern � Kleve
+86;1;Rees � Dinslaken
+87;1;Oberhausen
+88;1;M�lheim
+89;1;Essen I
+90;1;Essen II
+91;1;Essen III
+92;1;Duisburg I
+93;1;Duisburg II
+94;1;Borken � Bocholt � Ahaus
+95;1;Steinfurt � Tecklenburg
+96;1;Beckum � Warendorf
+97;1;M�nster-Stadt und -Land
+98;1;L�dinghausen � Coesfeld
+99;1;Gelsenkirchen
+100;1;Recklinghausen-Land
+101;1;Recklinghausen-Stadt
+102;1;Gladbeck � Bottrop
+103;1;Warburg � H�xter � B�ren
+104;1;Paderborn � Wiedenbr�ck
+105;1;Bielefeld � Halle
+106;1;Bielefeld-Stadt
+107;1;Herford-Stadt und -Land
+108;1;Detmold
+109;1;Lemgo
+110;1;Minden � L�bbecke
+111;1;Wattenscheid � Wanne-Eickel
+112;1;Herne � Castrop-Rauxel
+113;1;Ennepe-Ruhr � Witten
+114;1;Hagen
+115;1;Dortmund I
+116;1;Dortmund II
+117;1;Dortmund III � L�nen
+118;1;Bochum
+119;1;Iserlohn-Stadt und -Land
+120;1;Unna � Hamm
+121;1;Meschede � Olpe
+122;1;Arnsberg � Soest
+123;1;Lippstadt � Brilon
+124;1;Altena � L�denscheid
+125;1;Siegen-Stadt und -Land � Wittgenstein
+126;1;Waldeck
+127;1;Kassel 
+128;1;Eschwege
+129;1;Fritzlar-Homberg
+130;1;Hersfeld
+131;1;Marburg
+132;1;Wetzlar
+133;1;Gie�en
+134;1;Fulda
+135;1;Obertaunuskreis
+136;1;Friedberg
+137;1;Limburg
+138;1;Wiesbaden
+139;1;Hanau
+140;1;Frankfurt/M I
+141;1;Frankfurt/M II
+142;1;Frankfurt/M III
+143;1;Gro�-Gerau
+144;1;Offenbach/M
+145;1;Darmstadt
+146;1;Dieburg
+147;1;Bergstra�e
+148;1;Altenkirchen (Westerwald)
+149;1;Ahrweiler
+150;1;Koblenz
+151;1;Cochem
+152;1;Kreuznach
+153;1;Pr�m
+154;1;Trier
+155;1;Montabaur
+156;1;Mainz
+157;1;Worms
+158;1;Ludwigshafen am Rhein
+159;1;Neustadt an der Weinstra�e
+160;1;Kaiserslautern
+161;1;Zweibr�cken
+162;1;Speyer
+163;1;Stuttgart I (West)
+164;1;Stuttgart II (Ost)
+165;1;Ludwigsburg
+166;1;Heilbronn
+167;1;B�blingen
+168;1;E�lingen
+169;1;G�ppingen
+170;1;Ulm
+171;1;Aalen
+172;1;Backnang
+173;1;Crailsheim
+174;1;Waiblingen
+175;1;Karlsruhe-Stadt
+176;1;Mannheim-Stadt
+177;1;Heidelberg
+178;1;Karlsruhe-Land
+179;1;Bruchsal
+180;1;Mannheim-Land
+181;1;Sinsheim
+182;1;Tauberbischofsheim
+183;1;Konstanz
+184;1;Donaueschingen
+185;1;L�rrach
+186;1;Freiburg
+187;1;Emmendingen
+188;1;Offenburg
+189;1;Rastatt
+190;1;Reutlingen
+191;1;Calw
+192;1;Rottweil 
+193;1;Balingen
+194;1;Biberach
+195;1;Ravensburg
+196;1;Alt�tting
+197;1;F�rstenfeldbruck
+198;1;Ingolstadt
+199;1;Miesbach
+200;1;M�nchen-Nord
+201;1;M�nchen-Ost
+202;1;M�nchen-S�d
+203;1;M�nchen-West
+204;1;M�nchen-Land
+205;1;Rosenheim
+206;1;Traunstein
+207;1;Weilheim
+208;1;Deggendorf
+209;1;Landshut
+210;1;Passau
+211;1;Pfarrkirchen
+212;1;Straubing
+213;1;Vilshofen
+214;1;Amberg
+215;1;Burglengenfeld
+216;1;Cham
+217;1;Regensburg
+218;1;Tirschenreuth
+219;1;Bamberg
+220;1;Bayreuth
+221;1;Coburg
+222;1;Forchheim
+223;1;Hof
+224;1;Kulmbach
+225;1;Ansbach
+226;1;Erlangen
+227;1;N�rnberg
+228;1;N�rnberg � F�rth
+229;1;Schwabach
+230;1;Wei�enburg
+231;1;Aschaffenburg
+232;1;Bad Kissingen
+233;1;Karlstadt
+234;1;Schweinfurt
+235;1;W�rzburg
+236;1;Augsburg-Stadt
+237;1;Augsburg-Land
+238;1;Dillingen
+239;1;Donauw�rth
+240;1;Kaufbeuren
+241;1;Kempten
+242;1;Memmingen
+243;1;Saarbr�cken-Stadt
+244;1;Saarbr�cken-Land
+245;1;Saarlouis � Merzig
+246;1;Ottweiler � St. Wendel
+247;1;Homburg � St. Ingbert
